@@ -14,10 +14,10 @@ Example output:
 1: Starting flow 3
 1: Starting flow 4
 1: Starting flow 5
-1: Finished flow 4
-1: Finished flow 5
 1: Finished flow 3
 1: Finished flow 2
+1: Finished flow 5
+1: Finished flow 4
 1: Finished flow 1
 1: Finished MainAsync
 1: Finished everything
