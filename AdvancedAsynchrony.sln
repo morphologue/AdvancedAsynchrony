@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleThreadAsynchrony", "SingleThreadAsynchrony.csproj", "{26FA3B68-CBCB-4CB1-810D-3A773620AA11}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedAsynchrony", "AdvancedAsynchrony.csproj", "{26FA3B68-CBCB-4CB1-810D-3A773620AA11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
