@@ -21,7 +21,7 @@ Options:
                 Default value is: 1.
 ```
 
-Output from `--tasks 15 --thread 3`:
+Output from `--tasks 15 --threads 3`:
 
 ```
 1: Set SynchronizationContext
